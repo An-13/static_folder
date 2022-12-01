@@ -1,0 +1,13 @@
+h1
+{
+    color: chartreuse;
+    background-color: blue;
+}
+
+img
+{
+    border:2px solid red;
+    height:300px;
+    width:300px;
+    border-radius: 20px;
+}
